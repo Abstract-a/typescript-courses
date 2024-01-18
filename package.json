@@ -40,5 +40,10 @@
   "resolutions": {
     "@types/eslint": "8.44.3",
     "@types/react": "18.2.28"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
   }
 }
